@@ -10,28 +10,24 @@
 `soundfile 0.10.3`
 `sounddevice 0.4.1`
 
-## 🗂dir
+## 🗂dir & doc
 
 > 数据集:https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
 
 目录结构说明：
 
 - SpeechRecognition
-  - data # 数据目录
-    - tensorflow-speech-recognition-challenge/data
-      - train
-        - audio
-          - down
-          - no
+  - `data` : 数据目录
+    - `tensorflow-speech-recognition-challenge/data`
+      - `train`
+        - `audio`
+          - `down`
+          - `no`
           - ...
-  - image
-    - icon.png
-    - ...
-  - model
-    - best_model.h5
-    - best_model.hdf5
-  - recording_window.py  # 图形化界面
-  - speech_recognition_model.py  # 模型搭建训练及预测
+  - `image`
+  - `model`
+  - `recording_window.py` : 图形化界面
+  - `speech_recognition_model.py`  : 模型搭建训练及预测
 
 
 
