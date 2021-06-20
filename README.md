@@ -1,4 +1,4 @@
-## dir
+## 🗂dir
 
 > 数据集:https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
 
@@ -7,7 +7,7 @@
 - SpeechRecognition
   - data
     - tensorflow-speech-recognition-challenge/data
-      - tran
+      - train
         - audio
           - down
           - no
@@ -21,7 +21,7 @@
   - recording_window.py  # 图形化界面
   - speech_recognition_model.py  # 模型搭建训练及预测
 
-## env
+## 💻env
 
 `librosa 0.8.0`
 `scipy 1.6.2`
